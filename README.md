@@ -4,7 +4,7 @@
 ## Я являюсь java backend-разработчиком.
 
 ### Language and Tools
-![Spring Boot](https://img.shields.io/badge/-Spring Boot-090909?
+![Spring-Boot](https://img.shields.io/badge/-SpringBoot-090909?
 style=for-the-badge&logo=appveyor)
 
 Follow Me
