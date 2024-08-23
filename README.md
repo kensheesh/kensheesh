@@ -21,3 +21,6 @@
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/kensheeshz)
 [![instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/kensheesh_/)
+
+
+### Email: nursultazynwa@gmail.com
